@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+}
+
+nav{
+    border: solid black;
+    height: auto;
+    width: 100%;
+    background-color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.paragraph{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
